@@ -1,0 +1,9 @@
+C:\Users\brians\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\brians\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.XML
+C:\Users\brians\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\brians\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\brians\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\FSharp.Core.dll
+C:\Users\brians\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\FSharp.Core.xml
+C:\Users\brians\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.fsprojResolveAssemblyReference.cache
+C:\Users\brians\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\brians\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
